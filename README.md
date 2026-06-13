@@ -15,7 +15,7 @@
   <a href="https://github.com/sadecefearless">
     <img src="https://img.shields.io/badge/GitHub-191717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv">
+  <a href="https://open.spotify.com/user/4aoqv42oe13nt0vizznxh7bmu">
     <img src="https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/fearlessxd">
